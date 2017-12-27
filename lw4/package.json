@@ -1,0 +1,25 @@
+{
+  "description": "lab4",
+  "repository": {
+    "type": "git",
+    "url": "MihaChug/web"
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "grunt"
+  },
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "grunt": "^1.0.1",
+    "grunt-assets-hash": "^0.1.4",
+    "grunt-cache-breaker": "^2.0.1",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-eslint": "^19.0.0",
+    "grunt-ts": "^6.0.0-beta.15",
+    "grunt-tslint": "^5.0.1",
+    "typescript": "^2.3.2"
+  }
+}
